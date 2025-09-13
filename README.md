@@ -3,8 +3,6 @@
 🎓 BCA student | 💻 Full Stack Web Developer in progress | ☕ JavaScript enthusiast  
 🚀 Exploring the world of tech, one line of code at a time.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A33&width=435&lines=Tutor+at+Lalmani+educators;Professor+at+LNMCBM)](https://git.io/typing-svg)
-
 ### 📚 Currently Learning
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A33&width=435&lines=JavaScript+Deep+Dive;Node.js+Backend;Firebase+Auth+%26+Firestore;Computer+Graphics+in+C;Operating+Systems+Concepts)](https://git.io/typing-svg)
