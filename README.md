@@ -12,7 +12,7 @@
 ## 🔧 Tech Stack
 
 - 🌐 Frontend: HTML, CSS, JavaScript, React (learning)
-- 🛠️ Backend: Node.js (learning), Firebase
+- 🛠️ Backend: Node.js (learning), Firebase ,Django
 - 💾 Databases: Firestore, MongoDB (basic)
 - 🎨 UI/UX: Computer Graphics in C, basic design tools
 - 🔍 Currently learning: Full Stack Web Dev, Java, OS, CGM
