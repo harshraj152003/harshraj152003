@@ -9,13 +9,17 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- 🌐 Frontend: HTML, CSS, JavaScript, React (learning)
-- 🛠️ Backend: Node.js (learning), Firebase ,Django
-- 💾 Databases: Firestore, MongoDB (basic)
-- 🎨 UI/UX: Computer Graphics in C, basic design tools
-- 🔍 Currently learning: Full Stack Web Dev, Java, OS, CGM
+<p>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
+
+---
 
 ---
 
