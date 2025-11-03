@@ -25,6 +25,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 💡 Fun Facts
 
 - I’m currently building **RoomKhojo.com** – a house renting platform.
