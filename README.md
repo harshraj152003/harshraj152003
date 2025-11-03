@@ -66,6 +66,6 @@
 
 ## QUOTE
 
-_<p align="center">
+<p align="center">
   <img src="https://github-readme-quotes.vercel.app/api?quote=%E2%80%9CKeep%20learning.%20Keep%20building.%20Stay%20unstoppable.%E2%80%9D&author=-%20Me&theme=dark" alt="Inspirational Quote" />
-</p>_
+</p>
