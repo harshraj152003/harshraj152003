@@ -29,6 +29,15 @@
 
 ---
 
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+</p>
+
 ---
 
 ## 👁️‍🗨️ Profile Views
@@ -46,8 +55,9 @@
 ---
 
 ## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app/?user=harshraj152003&theme=dark&hide_border=true" alt="Harsh Raj GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=harshraj152003&theme=dark&hide_border=true&cache_id=123" alt="Harsh Raj GitHub Streak" />
 </p>
 
 ---
