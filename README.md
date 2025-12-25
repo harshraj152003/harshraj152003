@@ -46,9 +46,8 @@
 ---
 
 ## 📈 Activity Graph
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshraj152003&theme=dark&hide_border=true" alt="Harsh Raj GitHub Streak" />
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=harshraj152003&theme=dark&hide_border=true" alt="Harsh Raj GitHub Streak" />
 </p>
 
 ---
