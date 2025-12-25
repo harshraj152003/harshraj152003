@@ -40,6 +40,19 @@
 
 ---
 
+## 🛠️ Tools & Security
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Bcrypt-444444?style=for-the-badge&logo=security&logoColor=white" alt="Password Hashing">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+</p>
+
+---
+
 ## 👁️‍🗨️ Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=harshraj152003&color=blue)
