@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshraj152003&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh Raj GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshraj152003&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh Raj GitHub Stats" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj152003&theme=dark&hide_border=true" alt="Harsh Raj GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=harshraj152003&theme=dark&hide_border=true" alt="Harsh Raj GitHub Streak" />
 </p>
 
 ---
