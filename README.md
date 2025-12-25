@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/-Java%20Servlet-5382A1?style=for-the-badge&logo=apache&logoColor=white" alt="Java Servlet">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
 ---
