@@ -75,13 +75,6 @@
 
 ---
 
-## 💡 Fun Facts
-
-- I’m currently building **RoomKhojo.com** – a house renting platform.
-- Dreaming of mastering JS and diving deep into cybersecurity 🛡️
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harsh-raj-09120b286/)
