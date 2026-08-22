@@ -5,7 +5,7 @@
 
 ### 📚 Currently Learning
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A33&width=435&lines=JavaScript+Deep+Dive;Node.js+Backend;Firebase+Auth+%26+Firestore;Computer+Graphics+in+C;Operating+Systems+Concepts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A33&width=435&lines=React-JS;Firebase+Auth+%26+Firestore;Django+Backend;Operating+Systems+Concepts;Agile+SDLC+Model)](https://git.io/typing-svg)
 
 ---
 
